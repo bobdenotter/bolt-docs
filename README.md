@@ -5,5 +5,5 @@ The Bolt docs have moved to [github.com/bolt/bolt-docs](http://github.com/bolt/b
 
 If you're using git, use the following command to update the url:
 
-   git remote set-url origin git://github.com/bolt/bolt-docs.git
+    git remote set-url origin git://github.com/bolt/bolt-docs.git
    
